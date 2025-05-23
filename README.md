@@ -2,7 +2,7 @@
 
 🎓 Ingeniero de Sistemas 
 💻 Apasionado por el desarrollo de software, la inteligencia artificial y la automatización  
-📍 Bogotá, Colombia  
+📍 Bogota, D.C., Capital District, Colombia 
 
 ---
 
