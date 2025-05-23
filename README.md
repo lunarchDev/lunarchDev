@@ -10,8 +10,8 @@
 
 Soy un desarrollador autodidacta e Ingeniero de Sistemas apasionado por crear soluciones digitales que impacten positivamente. Me especializo en el desarrollo de aplicaciones **web modernas**, **interfaces interactivas** y en el desarrollo de **aplicaciones móviles multiplataforma**.
 
-Trabajo con tecnologías actuales como **React**, **Next.js**, **TypeScript** y **Tailwind CSS**, aplicando buenas prácticas de diseño, rendimiento y accesibilidad.
-Además, tengo experiencia en **automatización de procesos**, **web scraping** y proyectos con **Inteligencia Artificial aplicada**, como sistemas de ***identificación de especies de aves** mediante visión por computadora y **detección de fraudes bancarios** con modelos de Machine Learning.
+Trabajo con tecnologías actuales como **React**, **Next.js**, **TypeScript** y **TailwindCSS**, aplicando buenas prácticas de diseño, rendimiento y accesibilidad.
+Además, tengo experiencia en **automatización de procesos**, **web scraping** y proyectos con **Inteligencia Artificial aplicada**, como sistemas de **identificación de especies de aves** mediante visión por computadora y **detección de fraudes bancarios** con modelos de Machine Learning.
 
 Estoy en constante aprendizaje y disfruto compartir mis conocimientos y construir soluciones reales, funcionales y escalables.
 
@@ -21,7 +21,7 @@ Estoy en constante aprendizaje y disfruto compartir mis conocimientos y construi
 
 - **Lenguajes**: HTML/CSS, JavaScript, TypeScript, Python
 - **Frameworks**: React, Preact, NextJS, Astro, Angular
-- **Diseño y UI**: Figma, Tailwind CSS, Bootstrap, Framer Motion 
+- **Diseño y UI**: Figma, TailwindCSS, Bootstrap, Framer Motion 
 - **Herramientas de desarrollo**: Git, GitHub, Linux, Docker, Vite, ESLint, Prettier
 - **Data Science & Web Scraping**: Pandas, NumPy, OpenCV, Selenium, BeautifulSoup 
 - **Bases de datos**: MySQL, PostgreSQL, SQLite, Mongo DB
