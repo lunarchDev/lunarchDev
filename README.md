@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Santiago Cuellar Otavo
 
-🎓 Estudiante de Ingeniería de Sistemas en la Universidad Cooperativa de Colombia  
+🎓 Ingeniero de Sistemas 
 💻 Apasionado por el desarrollo de software, la inteligencia artificial y la automatización  
 📍 Bogotá, Colombia  
 
@@ -8,19 +8,26 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador autodidacta y estudiante de ingeniería con gran interés en las tecnologías emergentes como **Deep Learning** y el **análisis predictivo con Machine Learning**. He trabajado en proyectos que combinan **visión por computadora**, **procesamiento de imágenes**, y **automatización de procesos**, incluyendo sistemas para identificar especies de aves y detectar fraudes bancarios.
+Soy un desarrollador autodidacta e Ingeniero de Sistemas apasionado por crear soluciones digitales que impacten positivamente. Me especializo en el desarrollo de aplicaciones **web modernas**, **interfaces interactivas** y en el desarrollo de **aplicaciones móviles multiplataforma**.
 
-Estoy comprometido con el aprendizaje continuo y disfruto compartir lo que aprendo mientras desarrollo soluciones reales a problemas del mundo.
+Trabajo con tecnologías actuales como **React**, **Next.js**, **TypeScript** y **Tailwind CSS**, aplicando buenas prácticas de diseño, rendimiento y accesibilidad.
+Además, tengo experiencia en **automatización de procesos**, **web scraping** y proyectos con **Inteligencia Artificial aplicada**, como sistemas de ***identificación de especies de aves** mediante visión por computadora y **detección de fraudes bancarios** con modelos de Machine Learning.
+
+Estoy en constante aprendizaje y disfruto compartir mis conocimientos y construir soluciones reales, funcionales y escalables.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes**: Python, JavaScript, HTML/CSS  
-- **Frameworks**: Flask, React, TensorFlow, PyTorch  
-- **Herramientas de IA**: OpenCV, Scikit-learn, Pandas, NumPy  
-- **Otros**: Git, Linux, Web Scraping con Selenium y BeautifulSoup  
-- **Bases de datos**: SQL, PostgreSQL
+- **Lenguajes**: HTML/CSS, JavaScript, TypeScript, Python
+- **Frameworks**: React, Preact, NextJS, Astro, Angular
+- **Diseño y UI**: Figma, Tailwind CSS, Bootstrap, Framer Motion 
+- **Herramientas de desarrollo**: Git, GitHub, Linux, Docker, Vite, ESLint, Prettier
+- **Data Science & Web Scraping**: Pandas, NumPy, OpenCV, Selenium, BeautifulSoup 
+- **Bases de datos**: MySQL, PostgreSQL, SQLite, Mongo DB
+- **DevOps / Automatización**: Docker, GitHub Actions (en aprendizaje)
+- **Aplicaciones móviles**: React Native, Expo  
+- **Testing**: Jest, React Testing Library 
 
 ---
 
