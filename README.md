@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Santiago Cuellar Otavo
+# 👋 ¡Hola! Soy Santiago Cuellar O.
 
 🎓 Ingeniero de Sistemas 
 💻 Apasionado por el desarrollo de software, la inteligencia artificial y la automatización  
